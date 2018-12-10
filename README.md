@@ -6,9 +6,9 @@ port to zcu102
 
 it should say configured for zcu102
 
-make ips
-
 go to fpga directory 
+
+make ips
 
 make synth-pulp_cluster-nogui
 
