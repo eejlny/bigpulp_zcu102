@@ -2,11 +2,12 @@
 
 port to zcu102
 
+go to fpga directory 
+
 . sourceme.sh
 
 it should say configured for zcu102
 
-go to fpga directory 
 
 make ips
 
