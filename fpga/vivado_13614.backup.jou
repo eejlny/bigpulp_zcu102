@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Dec 10 09:59:44 2018
+# Process ID: 13614
+# Current directory: /hdd1/eejlny/projects/riscv/bigpulp/fpga
+# Command line: vivado
+# Log file: /hdd1/eejlny/projects/riscv/bigpulp/fpga/vivado.log
+# Journal file: /hdd1/eejlny/projects/riscv/bigpulp/fpga/vivado.jou
+#-----------------------------------------------------------
+start_gui
+create_project project_1 /scratch/project_1 -part xczu9eg-ffvb1156-2-e
+set_property board_part xilinx.com:zcu102:part0:3.2 [current_project]
